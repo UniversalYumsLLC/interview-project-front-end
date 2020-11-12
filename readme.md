@@ -1,6 +1,6 @@
 ## Interview Project Front-End Developer
 
-Hello! Thanks for taking the time to complete this project to help assess CSS and WordPress skills.
+Hello! Thanks for taking the time to complete this project to help evaluate CSS and WordPress skills.
 
 ### Project instructions
 
@@ -14,7 +14,7 @@ Hello! Thanks for taking the time to complete this project to help assess CSS an
 
 3. Set up a new page template called "Product Grid" with the default theme header and footer from _s.
 
-4. We're looking to see how you can implement different design details just with CSS, so please use this markup to display the grid. For the image, use the correct WordPress functions to load the image directly from the theme. The [image to use is in this repo](yum.png) with the filename "yum.png". You shouydn't need to add any classes or extra markup aside from the markup to render the image.
+4. We're looking to see how you implement different design details with CSS, so please use the following markup to display the grid.
 
 ```html
 <div class="product-grid">
@@ -37,7 +37,11 @@ Hello! Thanks for taking the time to complete this project to help assess CSS an
 </div>
 ```
 
-5. Your styles should be written in sass and compile the same way other scss files in the _s theme do.
+For the image, use WordPress functions to load the image path from the theme. The image [yum.png](yum.png) can be found in this repository.
+
+You shouldn't need to add any classes or extra markup in order to display the product grid as shown in the above screenshot (aside from the markup for rendering the image).
+
+5. Styles should be written in sass and compile the same way other scss files in the _s theme do.
 
 6. The screenshot above shows how the grid should display on a larger desktop screens. Please use your best judgment when coding how it will display on smaller mobile screens.
 
