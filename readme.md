@@ -45,8 +45,6 @@ You shouldn't need to add any classes or extra markup in order to display the pr
 
 6. The screenshot above shows how the grid should display on a larger desktop screens. Please use your best judgment when coding how it will display on smaller mobile screens.
 
-### Bonus Features
+7. Add some sort of fun animation or effect when the product square has a hover state.
 
-1. Add some sort of fun animation or effect when the product square has a hover state.
-
-2. Optimize the image rendering for efficient load times.
+8. Optimize the image rendering for efficient load times.
